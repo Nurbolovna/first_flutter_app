@@ -1,4 +1,4 @@
-# Mark Dart files as Dart
+
 *.dart linguist-language=Dart
 
 # Mark native/desktop folders as vendored so they don't count toward language stats
